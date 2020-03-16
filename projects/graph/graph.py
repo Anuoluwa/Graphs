@@ -3,6 +3,8 @@ Simple graph implementation
 """
 from util import Stack, Queue  # These may come in handy
 
+#Graph solution day 1: traverse through a graph
+
 class Graph:
 
     """Represent a graph as a dictionary of vertices mapping labels to edges."""
